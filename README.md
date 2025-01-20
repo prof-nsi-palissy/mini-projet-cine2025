@@ -1,7 +1,8 @@
-# Flask Web App Starter
+# Mini-projet cinéma
 
-A Flask starter template as per [these docs](https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application).
+Interroger une base de données (au format sqlite) à partir d'une interface web, comme le font la plupart des sites web.
 
-## Getting Started
+## Clonage du dépôt initial
+La première étape consiste en l'importation de ce dépôt.
 
-Previews should run automatically when starting a workspace.
+
